@@ -1,2 +1,2 @@
-# Primeiro-desafio-DIO-Git-GitHub
+# Primeiro-desafio-DIO-sobre-Git-e-GitHub
 Criação do Primeiro Repositório
